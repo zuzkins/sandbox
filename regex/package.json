@@ -1,0 +1,10 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "main": "src/match.js",
+  "author": "Jiří Zůna <jiri@zunovi.cz>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.3.1"
+  }
+}
