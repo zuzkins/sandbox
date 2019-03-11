@@ -1,4 +1,4 @@
-const m = require('./index.js')
+const m = require('./match.js')
 
 describe('Literal matcher, when given a pattern of', () => {
   describe('a, should', () => {
